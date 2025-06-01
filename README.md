@@ -1,2 +1,3 @@
 # SalesDataAnalysisPython
 Sales Data Analysis in Python
+This project involves analyzing sales data imported from an Excel file using Python and Pandas. It calculates essential metrics such as total sales, average order value, and total units sold to provide a clear overview of business performance. The analysis includes grouping data by items, regions, and sales representatives to identify top performers. Various graphs, including bar charts and line plots, are used to visually represent average unit prices, total units sold, sales by region, and sales trends over time. These visualizations help reveal patterns and trends, making the data easier to understand and supporting informed decision-making.
